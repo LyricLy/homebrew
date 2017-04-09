@@ -1,2 +1,2 @@
 # homebrew
-https://joeb456.github.io/homebrew/
+https://joo456.github.io/homebrew/
